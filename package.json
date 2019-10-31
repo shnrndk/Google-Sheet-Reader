@@ -1,0 +1,20 @@
+{
+  "name": "Google-Sheet-Reader",
+  "version": "1.0.0",
+  "description": "This will read the google sheets, First to get the authorisation with the google sheets, you need to generate client_secret.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shnrndk/Google-Sheet-Reader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shnrndk/Google-Sheet-Reader/issues"
+  },
+  "homepage": "https://github.com/shnrndk/Google-Sheet-Reader#readme"
+}
